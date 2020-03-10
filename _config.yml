@@ -28,7 +28,7 @@ navbar-links:
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/img/avatar-icon.png"
+avatar: "/img/avatar.jpeg"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
@@ -69,7 +69,7 @@ author:
 social-network-links:
 #  rss: false
   email: "showme0077@gmail.com"
-  facebook: showme0077
+  facebook: dev.yj91
   github: showme0077
   instagram: phot_jun
 #  twitter: false
@@ -128,7 +128,7 @@ url-pretty: "showme0077.github.io"  # eg. "deanattali.com/beautiful-jekyll"
 
 # To use Staticman comments, fill in repository, branch, and endpoint
 staticman:
-  repository : # GitHub username/repository eg. "daattali/beautiful-jekyll"
+  repository : showme0077/showme0077.github.io # GitHub username/repository eg. "daattali/beautiful-jekyll"
   branch     : master # If you're not using `master` branch, then you also need to update the `branch` parameter in `staticman.yml`
   endpoint   : # URL of your own deployment, with a trailing slash (will fallback to a public GitLab instance) eg. https://<your-api>/v3/entry/github/
   reCaptcha:
